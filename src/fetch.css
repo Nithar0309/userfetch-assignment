@@ -1,0 +1,22 @@
+.user{
+    background-image: url(https://t4.ftcdn.net/jpg/03/11/50/71/360_F_311507184_0mErEL2kUw7z4AbXhsxPjFE7hQnY7BLy.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    height: 100vh;
+    width: 100%;
+}
+.user1{
+    
+    display: inline-block;
+  text-align: center;
+  margin: 50px;
+  color: white;
+  height: 80vh;
+          width: 26vw;
+          backdrop-filter: blur(10px);
+          background:rgb(255,255,255,0.2);
+          padding: 1rem;
+          border-radius: 12px;
+          border: 2px solid #ee0a0a;
+  }
